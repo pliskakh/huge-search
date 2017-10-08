@@ -17,6 +17,7 @@ body {
 }
 
 .ba-container__ba-search-field {
+	width: 90%;
 	font-size: 70px;
 	font-weight: bold;
 	background: none;
@@ -29,6 +30,7 @@ body {
 
 .ba-container__ba-search-field::placeholder {
 	color: #c2c2c2;
+	letter-spacing: 5px;
 }
 
 .ba-container__ba-search-button {
